@@ -1,2 +1,5 @@
 # ignore my photos
 photos/*
+
+# exception to the rule
+!photos/add-your-photo-here 

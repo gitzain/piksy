@@ -2,17 +2,16 @@
 A Raspberry Pi-powered photo frame using a WaveShare 7.5 inch HD e-ink display.
 
 ## Table of content
-- [Pisky](#pisky)
-  - [Table of content](#table-of-content)
-  - [Motivation](#motivation)
-  - [Screenshots](#screenshots)
-  - [Installation \& Usage](#installation--usage)
+- [Table of content](#table-of-content)
+- [Motivation](#motivation)
+- [Screenshots](#screenshots)
+- [Installation \& Usage](#installation--usage)
     - [Installation](#installation)
     - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [History](#history)
-  - [Credits](#credits)
-  - [License](#license)
+- [Contributing](#contributing)
+- [History](#history)
+- [Credits](#credits)
+- [License](#license)
 
 ## Motivation
 The motivation behind this project stemmed from a desire to utilize an e-ink display, known for its low power consumption and paper-like appearance, ideal for creating a minimalist home decor piece that seamlessly integrates into any environment. Inspired by the concept of slow technology, which emphasizes mindfulness and deliberate interaction with devices, the project aims to offer a serene and unobtrusive way to display a rotating gallery of images. This setup not only enhances the aesthetic appeal of the space but also encourages a more contemplative viewing experience compared to traditional digital displays.
